@@ -11,7 +11,7 @@ At this point, the `gh-pages` npm package is installed on your computer and the 
 
 ### 2. Add a `homepage` property to the `package.json` file
 
-1. Open the `package.json` file in a text editor.
+1. Open the `package.json` file in a text editor, thru terminal.
    
     ```shell
      code . package.json
@@ -34,7 +34,7 @@ At this point, the React app's `package.json` file includes a property named `ho
 
 ### 5. Add deployment scripts to the `package.json` file
 
-1. Open the `package.json` file in a text editor (if it isn't already open in one).
+1. Open the `package.json` file in a text editor (if it isn't already open in one), thru terminal.
    
     ```shell
      code . package.json
@@ -76,13 +76,13 @@ At this point, the  React app's `package.json` file includes deployment scripts.
     
 At this point, the React app is accessible to anyone who visits the `homepage` URL you specified in Step 4. For example, the React app I deployed is accessible at https://gitname.github.io/react-gh-pages.
 
-### 5. NOW DO THIS !
+### 5. NOW DO THIS ! thru terminal.
 
     ```shell
     $ git add .
     $ git commit -m "Configure React app for deployment to GitHub Pages or anything u want"
     $ git push origin master
     ```
-    if git push origin master doesnt work , do only 'git push' , instead. Wait for 30 seconds , ur website must be deployed.
+   ****** if git push origin master doesnt work , do only 'git push' , instead. Wait for 30 seconds , ur website must be deployed.******
 
-    > I recommend exploring the GitHub repository at this point. It will have two branches: `master` and `gh-pages`. The `master` branch will contain the React app's source code, while the `gh-pages` branch will contain the distributable version of the React app.
+    > So the final crux is, It will have two branches: `master` and `gh-pages`. The `master` branch will contain the React app's source code, while the `gh-pages` branch will contain the distributable version of the React app.
