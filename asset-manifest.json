@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/practice-repo/static/css/main.c29ef1d9.css",
+    "main.js": "/practice-repo/static/js/main.55f543cc.js",
+    "static/js/787.d3befce1.chunk.js": "/practice-repo/static/js/787.d3befce1.chunk.js",
+    "static/media/giphy-searcher-logo.svg": "/practice-repo/static/media/giphy-searcher-logo.38e9f4c6567ee36b5b4927115b094852.svg",
+    "index.html": "/practice-repo/index.html",
+    "main.c29ef1d9.css.map": "/practice-repo/static/css/main.c29ef1d9.css.map",
+    "main.55f543cc.js.map": "/practice-repo/static/js/main.55f543cc.js.map",
+    "787.d3befce1.chunk.js.map": "/practice-repo/static/js/787.d3befce1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c29ef1d9.css",
+    "static/js/main.55f543cc.js"
+  ]
+}
