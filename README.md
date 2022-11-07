@@ -33,7 +33,7 @@ At this point, the `gh-pages` npm package is installed on your computer and the 
 At this point, the React app's `package.json` file includes a property named `homepage`.
 In my case "homepage": "https://jayanth920.github.io/practice-repo",
 
-### 5. Add deployment scripts to the `package.json` file
+### 3. Add deployment scripts to the `package.json` file
 
 1. Open the `package.json` file in a text editor (if it isn't already open in one), thru terminal.
    
@@ -54,7 +54,7 @@ In my case "homepage": "https://jayanth920.github.io/practice-repo",
 At this point, the  React app's `package.json` file includes deployment scripts.
 
 
-### 3. Deploy the React app to GitHub Pages
+### 4. Deploy the React app to GitHub Pages
 
 1. Deploy the React app to GitHub Pages , thru terminal.
 
