@@ -31,6 +31,7 @@ At this point, the `gh-pages` npm package is installed on your computer and the 
       "private": true,
     ```
 At this point, the React app's `package.json` file includes a property named `homepage`.
+In my case "homepage": "https://jayanth920.github.io/practice-repo",
 
 ### 5. Add deployment scripts to the `package.json` file
 
@@ -74,7 +75,7 @@ At this point, the  React app's `package.json` file includes deployment scripts.
 
 **That's it!** The React app has been deployed to GitHub Pages! :rocket:
     
-At this point, the React app is accessible to anyone who visits the `homepage` URL you specified in Step 4. For example, the React app I deployed is accessible at https://gitname.github.io/react-gh-pages.
+At this point, the React app is accessible to anyone who visits the `homepage` URL you specified in Step 4. For example, the React app I deployed is accessible at https://jayanth920.github.io/practice-repo/.
 
 ### 5. NOW DO THIS ! thru terminal.
 
